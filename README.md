@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/aarupastime" target="blank"><img src="https://img.shields.io/twitter/follow/aarupastime?logo=twitter&style=for-the-badge" alt="aarupastime" /></a> </p>
 
-- 🔭 I’m currently working on [OddEven-SP](https://github.com/Aarav2709/OddEven-SP)
+- 🔭 I’m currently working on [OddEven-SP](https://github.com/Aarav2709/OddEven-SP)!
 
 - 🌱 I’m currently learning **Python!**
 
-- 📫 How to reach me **tribejustice35@gmail.com**
+- 📫 How to reach me? **tribejustice35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
