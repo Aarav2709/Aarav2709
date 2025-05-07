@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aarupastime" target="blank"><img src="https://img.shields.io/twitter/follow/aarupastime?logo=twitter&style=for-the-badge" alt="aarupastime" /></a> </p>
 
-- 🔭 I’m currently working on [OddEven-SP](https://github.com/Aarav2709/OddEven-SP)!
+- 🔭 I’m currently working on [PyType](https://github.com/Aarav2709/PyType)!
 
 - 🌱 I’m currently learning **Python!**
 
