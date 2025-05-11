@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋, I'm Aarav!</h1>
-<h3 align="center">A 14 Year Old Developer from India!</h3>
+<p align="Center">
+  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&duration=10000&pause=&color=145414&center=true&vCenter=true&width=435&lines=My+README!">
+</p>
+· · ───────────────────────────── ·𖥸· ───────────────────────────── · ·
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdngwcnc3cTIxMHp1cTRoMzB2aWw5amszYWdwOTRhdTRna3Ntb3dkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" width="1000" height="100" align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarav2709&label=Profile%20views&color=0e75b6&style=flat" alt="aarav2709" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aarupastime" target="blank"><img src="https://img.shields.io/twitter/follow/aarupastime?logo=twitter&style=for-the-badge" alt="aarupastime" /></a> </p>
-
-- 🔭 I’m currently working on [PyType](https://github.com/Aarav2709/PyType)!
-
-- 🌱 I’m currently learning **Python!**
-
-- 📫 How to reach me? **tribejustice35@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aarupastime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aarupastime" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aarav-gupta-957766210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarav-gupta-957766210" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_aarupastime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_aarupastime" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aaruspastime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aaruspastime" height="30" width="40" /></a>
-<a href="https://discord.gg/frHrdqvQXS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frHrdqvQXS" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Namaste!;My+name+is+Aarav!;And+I'm+a+14Y+Old+Developer!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=149414&center=true&vCenter=true&width=435&lines=Namaste!;I'm+Aarav!;A+14Y+Old+Developer!"
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  Visitor Count:<br>
+  <img src="https://profile-counter.glitch.me/Aarav2709/count.svg" />
+</p>
+
+
+![Aarav2709's Stats](https://github-readme-stats.vercel.app/api?username=Aarav2709&theme=blue-green&show_icons=true&hide_border=true&count_private=true)![Aarav2709's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aarav2709&theme=blue-green&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarav2709&theme=blue-green&show_icons=true&hide_border=true&layout=compact"
+</p>
