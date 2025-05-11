@@ -1,6 +1,10 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAarav2709%2FAarav2709&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
+<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50"><img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="50">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Danmark+Loopet+&weight=900&duration=3000&pause=500&color=F7F7F7&width=435&lines=Hi+there!;My+name+is+Aarav!;And%2C+I'm+a+14Y+Old+Developer!)](https://git.io/typing-svg)
+<p align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Danmark+Loopet+&weight=900&duration=3000&pause=500&color=F7F7F7&width=435&lines=Hi+there!;My+name+is+Aarav!;And%2C+I'm+a+14Y+Old+Developer!)
+</p>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAarav2709%2FAarav2709%2Fedit%2Fv2%2FREADME.md&labelColor=%23000000&countColor=%23ffffff)
 
 ![Aarav2709's Stats](https://github-readme-stats.vercel.app/api?username=Aarav2709&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
