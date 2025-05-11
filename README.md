@@ -1,1 +1,2 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAarav2709%2FAarav2709&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Danmark+Loopet+&weight=900&duration=3000&pause=500&color=F7F7F7&width=435&lines=Hi+there!;My+name+is+Aarav!;And%2C+I'm+a+14Y+Old+Developer!)](https://git.io/typing-svg)
