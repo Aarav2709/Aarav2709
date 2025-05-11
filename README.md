@@ -18,10 +18,6 @@
   <img src= "https://github-readme-stats.vercel.app/api?username=Aarav2709&theme=blue-green&show_icons=true&hide_border=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarav2709&theme=blue-green&hide_border=true">
 </p>
 
-<p>
-  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=Aarav2709&theme=blue-green&hide_border=true">
-</p>
-
 <p align="center">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Aarav2709&theme=blue-green&show_icons=true&hide_border=true&layout=compact">
 </p>
