@@ -12,14 +12,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,dotnet,electron,fastapi,firebase,flask,git,github,html,js,linux,lua,md,nextjs,nodejs,npm,powershell,py,raspberrypi,react,robloxstudio,stackoverflow,svg,tailwind,threejs,vite,vscode"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aarav2709&theme=shadow-green&date_format=j%20M%5B%20Y%5D">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://streak-stats.demolab.com?user=Aarav2709&theme=shadow-green&date_format=j%20M%5B%20Y%5D" width="300" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav2709&theme=github_dark" width="300" height="150" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=000&tc=fff&ic=149414&bc=000" width="300" height="150" />
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav2709&theme=github_dark">
-</p>
 
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=000&tc=fff&ic=149414&bc=000">
-</p>
