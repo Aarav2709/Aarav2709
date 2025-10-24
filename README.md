@@ -7,3 +7,7 @@
 <p align="center">
   <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1250&color=149414&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Namaste!;My+name+is+Aarav+Gupta!;I'm+a+15yo+Full+Stack+Web+Dev!;I'm+Located+in+Delhi%2C+India!;Enjoy+exploring+my+Profile!"
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,dotnet,electron,fastapi,firebase,flask,git,github,html,js,linux,lua,md,nextjs,nodejs,npm,powershell,py,raspberrypi,react,robloxstudio,stackoverflow,svg,tailwind,threejs,vite,vscode"/>
+</p>
