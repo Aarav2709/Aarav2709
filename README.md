@@ -14,6 +14,6 @@
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 25px;">
   <img src="https://streak-stats.demolab.com?user=Aarav2709&theme=shadow-green&date_format=j%20M%5B%20Y%5D" width="300" height="160" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav2709&theme=github_dark" width="360" height="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarav2709&theme=github_dark" width="360" height="200" style="flex-basis: 100%; order: -1;" />
   <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=000&tc=fff&ic=149414&bc=000" width="300" height="160" />
 </p>
