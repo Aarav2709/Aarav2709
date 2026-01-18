@@ -13,6 +13,5 @@
 </p>
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 25px; background-color: #000; padding: 20px; border-radius: 12px;">
-  <img src="https://streak-stats.demolab.com?user=Aarav2709&theme=github-dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00" width="300" height="160" />
   <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=000&tc=00FF00&ic=00FF00&bc=000" width="300" height="160" />
 </p>
