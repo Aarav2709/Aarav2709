@@ -1,17 +1,27 @@
 <p align="center">
-  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=&color=149414&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=My+README.md!">
-</p>
-
-<img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdngwcnc3cTIxMHp1cTRoMzB2aWw5amszYWdwOTRhdTRna3Ntb3dkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" width="1000" height="100" align="center">
-
-<p align="center">
-  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1250&color=149414&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Namaste!;My+name+is+Aarav+Gupta!;I'm+a+15yo+Full+Stack+Web+Dev!;I'm+Located+in+Delhi%2C+India!;Enjoy+exploring+my+Profile!"
+  <img src= "https://s3.ezgif.com/tmp/ezgif-3dbabb101cf99f58.gif">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,dotnet,electron,fastapi,firebase,flask,git,github,html,js,linux,lua,md,nextjs,nodejs,npm,powershell,py,raspberrypi,react,robloxstudio,stackoverflow,svg,tailwind,threejs,vite,vscode"/>
+  <img src= "https://readme-typing-svg.demolab.com?font=Gabriela&size=24&duration=2000&pause=1000&color=A5A5A5&center=true&vCenter=true&width=435&lines=Namaste.;My+name+is+Aarav+Gupta+%3AD;I'm+a+16yo+Dev!;I+love+contributing+to+OSS+%3C3"
 </p>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 25px; background-color: #000; padding: 20px; border-radius: 12px;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=000&tc=00FF00&ic=00FF00&bc=000" width="300" height="160" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" height="40" alt="HTML" />
+  <img src="https://cdn.simpleicons.org/css/FFFFFF" height="40" alt="CSS" />
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/python/FFFFFF" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="40" alt="Flask" />
+  <img src="https://cdn.simpleicons.org/fastapi/FFFFFF" height="40" alt="FastAPI" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/FFFFFF" height="40" alt="Vue" />
+  <img src="https://cdn.simpleicons.org/rust/FFFFFF" height="40" alt="Rust" />
+  <img src="https://cdn.simpleicons.org/lua/FFFFFF" height="40" alt="Lua" />
+  <img src="https://cdn.simpleicons.org/astro/FFFFFF" height="40" alt="Astro" />
+  <img src="https://cdn.simpleicons.org/sass/FFFFFF" height="40" alt="SCSS" />
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" height="40" alt="React" />
+</p>
+
+<p align="center" style="background-color: #fff; padding: 20px; border-radius: 12px;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=fff&tc=000&ic=000&bc=fff" width="300" height="160" />
 </p>
