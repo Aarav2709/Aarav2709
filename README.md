@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://s3.ezgif.com/tmp/ezgif-3dbabb101cf99f58.gif">
+  <img src= "banner.gif">
 </p>
 
 <p align="center">
