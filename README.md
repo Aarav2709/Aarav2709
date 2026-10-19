@@ -23,5 +23,5 @@
 </p>
 
 <p align="center" style="background-color: #fff; padding: 20px; border-radius: 12px;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=fff&tc=000&ic=000&bc=fff" width="300" height="160" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Aarav2709&cc=fff&tc=000&ic=000&bc=fff" width="350" height="175" />
 </p>
