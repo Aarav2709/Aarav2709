@@ -23,5 +23,5 @@
 </p>
 
 <p align="center" style="background-color: #fff; padding: 20px; border-radius: 12px;">
-  <img src="https://github-stats-extended.vercel.app/api?username=Aarav2709&hide_rank=true&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=Aarav2709&hide_rank=true&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=graywhite&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Aarav2709&hide_rank=true&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=graywhite&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </p>
